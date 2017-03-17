@@ -22,7 +22,7 @@ Run
 
 ngrok http 5000
 
-Create a alexa skill at: https://developer.amazon.com/edw/home.html
+Create an alexa skill at: https://developer.amazon.com/edw/home.html
 
 Use the intentes and the utterances provided.
 
