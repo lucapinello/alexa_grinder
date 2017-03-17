@@ -22,7 +22,8 @@ Run
 
 ngrok http 5000
 
-Create an alexa skill at: https://developer.amazon.com/edw/home.html
+Create an alexa skill at: https://developer.amazon.com/edw/home.html and use Grind Coffee as Invocation Name.
+(more info here: https://developer.amazon.com/blogs/post/Tx14R0IYYGH3SKT/Flask-Ask-A-New-Python-Framework-for-Rapid-Alexa-Skills-Kit-Development)
 
 Use the intentes and the utterances provided.
 
