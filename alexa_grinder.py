@@ -5,7 +5,7 @@ from flask import Flask, render_template
 from flask_ask import Ask, statement, question, session
 
 DURATION_SINGLE=8.0
-DURATION_DOUBLE=15.6
+DURATION_DOUBLE=15.8
 HS100_IP='192.168.0.115'
 
 app = Flask(__name__)
